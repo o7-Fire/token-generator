@@ -49,8 +49,8 @@ Put your desired bot names in getmail/request.js in var names
 comment out strict_chain,  and proxy_dns with a # in /etc/proxychains.conf,  
 uncomment random_chain and chain_len = 2 and change it to 1  
 delete the socks4 127.0.0.1 9050 line  
-no need now as program fetches them automatically but not recomended to trust that much,
-add your proxies below  if you can
+the program fetches them and saves them on ./util so you just have to copy and format them
+add your proxies below  if you can since the autofetch might have a lotta dead proxies
 
 format should be  
 

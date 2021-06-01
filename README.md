@@ -15,8 +15,8 @@ A gmail account.
 
 # PREREQUISITES AND SETUP
   
-### STEP 1: BUY A CUSTOM DOMAIN  
-Buy a custom domain, this will later be used to create a custom disposable email address with zoho.com/mail.  
+### STEP 1: LEND A CUSTOM DOMAIN FROM FREENOM 
+get a domain from dot.tk , this will later be used to create a custom disposable email address with zoho.com/mail.  
   
 ### STEP 2: CREATE A ZOHOMAIL ACCOUNT  
 Create a zohomail account (This will be used for the catch-all email forwarding)  

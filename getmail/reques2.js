@@ -6,7 +6,7 @@ ckey = data;
 fs.readFile("../verify.txt", "utf8", function (error, data) {
 token = data;
 var poll = {"token":token,"captcha_key":ckey};
-var url = 'https://discordapp.com/api/v6/auth/verify'
+var url = 'https://discordapp.com/api/v7/auth/verify'
 
 var request = require('request');
 

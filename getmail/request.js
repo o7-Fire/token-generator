@@ -17,7 +17,7 @@ fs.readFile("1234.txt", "utf8", function (error, data) {
 	ckey = data;
 
 var poll = {"email":emailtosend,"username":name,"password":"goodpassword","invite":null,"captcha_key":ckey};
-var url = 'https://discordapp.com/api/v6/auth/register'
+var url = 'https://discordapp.com/api/v7/auth/register'
 
 var request = require('request');
 

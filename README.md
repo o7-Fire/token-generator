@@ -2,6 +2,8 @@
 Discord token generator for running in headless systems such as VPSes and other types of headless servers.  
 Often used to spam discord servers, if your system isn't headless, you can still use the code, but you might want to wait for the faster and no maintinance cost version for non-headless machines.
 
+# note:
+discord i dont give a shit, eat shit 70 people at trustandsafety team
 # REQUIREMENTS
 ## A DEBIAN BASED LINUX DISTRO IS REQUIRED
 Node.js 6 or higher  
